@@ -14,7 +14,7 @@ ChitChatPy is a lightweight and user-friendly Python chatbot designed to seamles
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ChitChatPy.git
+   git clone https://github.com/niladrigithub/ChitChatPy.git
 ## Legal and Ethical Considerations
 
 ChitChatPy is intended for educational and recreational purposes. Users are encouraged to interact with the chatbot responsibly and refrain from engaging in any illegal, harmful, or unethical activities.
